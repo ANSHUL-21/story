@@ -1,1 +1,1 @@
-this is chapter 1 of git.
+this is chapter 1 of git. its actually fun in git.
